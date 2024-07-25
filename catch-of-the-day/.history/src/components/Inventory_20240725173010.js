@@ -12,7 +12,6 @@ class Inventory extends React.Component {
     loadSampleFishes: PropTypes.func
   }
   render() {
-    return (<Login/>);
     return (
       <div className="inventory">
         <h2>Inventory</h2>

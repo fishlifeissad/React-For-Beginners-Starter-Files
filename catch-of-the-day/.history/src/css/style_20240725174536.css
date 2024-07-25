@@ -560,7 +560,7 @@ input[type=submit].email {
 }
 button.email:after,
 input[type=submit].email:after {
-  background: #79063c;
+  background: #c40960;
 }
 button.github,
 input[type=submit].github {

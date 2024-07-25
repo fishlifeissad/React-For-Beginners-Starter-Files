@@ -5,7 +5,7 @@ import 'firebase/firestore';
 import 'firebase/database';
 
 const firebaseApp = firebase.initializeApp({
-  apiKey: "AIzaSyDCgsQ6Wyg9nQbQs-AW5YsstdomAf7cnp8",
+  apiKey: "AIzaSyDXUCNSpi5u07F76httlCTXAA4mPVQlEHs",
   authDomain: "catch-of-the-day-daef3-default-rtdb.firebaseapp.com",
   databaseURL: "https://catch-of-the-day-daef3-default-rtdb.firebaseio.com/"
 });

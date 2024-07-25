@@ -539,8 +539,6 @@ button.success:after,
 input[type=submit].success:after {
   background: #2dc22d;
 }
-button.email,
-input[type=submit].email,
 button.github,
 input[type=submit].github,
 button.facebook,
@@ -553,14 +551,6 @@ input[type=submit].twitter {
   width: 100%;
   color: #fff;
   padding: 2rem;
-}
-button.email,
-input[type=submit].email {
-  background: #c40960;
-}
-button.email:after,
-input[type=submit].email:after {
-  background: #79063c;
 }
 button.github,
 input[type=submit].github {
